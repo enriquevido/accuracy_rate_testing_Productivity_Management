@@ -1,5 +1,3 @@
-#!/usr/bin/env python3
-# -*- coding: utf-8 -*-
 """
 Mapping test: EBT ↔ ABT accuracy from a CSV.
 - Expects columns EBT_min and ABT_min (minutes).
