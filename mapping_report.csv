@@ -1,0 +1,8 @@
+metric,value
+overall_accuracy_pct,90.22
+mae_minutes,0.491
+rmse_minutes,0.622
+bias_minutes_mean(EBT-ABT),-0.055
+pearson_r,0.8414
+r2,0.708
+rows,505.0
